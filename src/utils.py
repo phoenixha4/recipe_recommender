@@ -7,6 +7,7 @@ from nltk.stem import WordNetLemmatizer
 # Download NLTK stopwords and WordNet resources
 nltk.download('stopwords')
 nltk.download('wordnet')
+nltk.download('punkt')
 
 # Function to clean ingredient text
 def clean_ingredient(ingredient):
