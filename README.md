@@ -8,6 +8,10 @@ This project is a Vegan Recipe Recommender system that provides recipe recommend
 - **Ingredient-Based Recommendations**: Users can input ingredients, and the system will recommend recipes that best match those ingredients.
 - **Combined Recommendations**: Users can input both their user ID and ingredients to receive recommendations based on their preferences and the provided ingredients.
 
+## Deployed at: 
+
+https://whattwoeat.streamlit.app/
+
 ## Installation
 
 Clone this repository:
